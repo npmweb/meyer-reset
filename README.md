@@ -1,6 +1,6 @@
 # Eric Meyer - CSS Reset Stylesheet
 
-Eric Meyer's CSS reset stylesheet as [Sass](http://sass-lang.com/), delivered as a [Compass Extension](http://compass-style.org/docs/tutorials/extensions/) and [Ruby Gem](http://rubygems.org/).
+Eric Meyer's CSS reset stylesheet as [Sass](http://sass-lang.com/), delivered as a [Compass Extension](http://compass-style.org/docs/tutorials/extensions/), [Ruby Gem](http://rubygems.org/), and [Composer package](https://getcomposer.org/).
 
 For more information: [http://meyerweb.com/eric/tools/css/reset/](http://meyerweb.com/eric/tools/css/reset/)
 
@@ -37,6 +37,14 @@ The same rules apply as mentioned above. All you will need to do is import and g
     @import "meyer-reset";
     
     ...
+
+### Composer Package
+
+To install as a Composer package, require `"npmweb/laravel-forms": "~1.0"` in your `composer.json` file.
+
+Then run the following in your Terminal app.
+
+    composer update
 
 ## For fun
 

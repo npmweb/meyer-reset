@@ -1,0 +1,15 @@
+{
+  "name": "npmweb/laravel-forms",
+  "description": "Custom form builder utility for Laravel applications",
+  "type": "library",
+  "require": {
+    "robloach/component-installer": "*"
+  },
+  "extra": {
+    "component": {
+      "styles": [
+        "stylesheets/_meyer-reset.scss"
+      ]
+    }
+  }
+}
