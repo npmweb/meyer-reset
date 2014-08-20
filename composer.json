@@ -1,5 +1,5 @@
 {
-  "name": "npmweb/laravel-forms",
+  "name": "npmweb/meyer-reset",
   "description": "Custom form builder utility for Laravel applications",
   "type": "library",
   "require": {
